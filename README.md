@@ -1,4 +1,4 @@
-# typescript-virtual-world
-Following the tutorial on https://www.youtube.com/watch?v=5iHejdqYIa8
+# typescript-starter-webpack
+Template for building small Typescript prototypes.
 
 Install using `yarn install` and run the dev server using `yarn start`
